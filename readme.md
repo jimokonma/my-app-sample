@@ -1,2 +1,2 @@
 #myapp
-this is my app
+this is a sample app to test Git
